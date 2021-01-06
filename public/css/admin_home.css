@@ -1,0 +1,146 @@
+@font-face {
+    font-family: IRANYekan;
+    src: url("../fonts/yekan.woff")format("woff");
+}
+
+body, html {
+
+    font-family: IRANYekan, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 0;
+    direction: rtl;
+}
+
+body a{
+    text-decoration: none!important;
+}
+
+.background-c{
+    background-color: #f5f5f5;
+}
+
+.background-h:hover{
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+.text-c{
+    color: #009ec9;
+}
+
+.border-l:hover{
+    border-left: 1px solid #dee2e6;
+}
+
+#header-table-background{
+    background-color: #85b3be;
+}
+
+#header-table-background th{
+    font-weight: 600!important;
+}
+
+.button-bg{
+    background-color: #fcfcfc !important;
+    color: #7b7b7b !important;
+    font-size: 13px;
+}
+
+.button-bg i{
+    font-size: 21px;
+}
+
+.button-bg:hover{
+    box-shadow: none;
+}
+
+.list-h a{
+    color: #5b5b88;
+}
+
+.list-h i{
+    color: #cccccc;
+}
+
+.list-h:hover , .list-h a:hover , .list-h i:hover{
+    background-color: #f6ffff!important;
+    color: #07a0c9!important;
+    cursor: pointer!important;
+}
+
+.active , .active a , .active i{
+    background-color: #f6ffff!important;
+    color: #07a0c9!important;
+}
+
+.header-listbar-color{
+    color: rgb(83, 83, 83);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.table-cell-1-color , .table-cell-2-3 , #table-cell-4 , .table-cell-71 , .table-cell-71:hover , .table-cell-1-color:hover , .table-cell-2-3:hover , #table-cell-4:hover{
+    color: rgb(126, 126, 126);
+    font-size: 15px;
+    cursor: auto;
+}
+
+
+.table-cell-5-6 , .table-cell-5-6:hover{
+    color: rgb(83, 83, 83);
+    cursor: auto;
+}
+
+
+.table-cell-8{
+    color: #a9a9a9;
+    font-size: 22px;
+}
+
+.table-cell-4-7:hover{
+    color: #28a745;
+    cursor: auto;
+}
+
+.mobile-header-color{
+    color: #2a2a2a;
+}
+
+.p-color{
+    color: #424242;
+}
+
+.list-text-color{
+    color: #515151;
+    font-size: 13px;
+}
+
+
+.list-border-top{
+    border-top: 1px solid rgba(0, 0, 0, 0.31);
+}
+
+.rounded{
+    border-radius: 10px!important;
+}
+
+
+#table{
+    border-radius: 5px;
+    padding-top: 14px;
+}
+
+
+
+.table-h:hover{
+    background-color: #eaeaea;
+}
+
+.color{
+    color: #8585a0;
+}
+
+#bottem{
+    margin-bottom: 30px;
+}
